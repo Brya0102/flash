@@ -7,6 +7,7 @@ public class example {
 		
 		
 	System.out.println("123456789");
+	System.out.println("hi");
 	}
 
 }
